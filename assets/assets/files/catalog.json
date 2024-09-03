@@ -1,0 +1,119 @@
+
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Loto diaria Honduras 11 AM",
+        "desc": "Lottery Description will here..! ",
+        "price": 999,
+        "color": "#33505a",
+        "image": "https://thewebconcept.com/lot.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Loto diaria Honduras 3 pm",
+        "desc": "Lottery description here ",
+        "price": 500,
+        "color": "#544ee4",
+        "image": "https://thewebconcept.com/lot.jpg"
+       },
+      {
+        "id": 3,
+        "name": "Loto diaria Honduras 9 pm",
+        "desc": "Lottery description here ",
+        "price": 200,
+        "color": "#e3e4e9",
+        "image": "https://thewebconcept.com/lot.jpg" },
+      {
+        "id": 4,
+        "name": "Loto diaria Nicaragua 11 AM",
+        "desc": "Lottery description here ",
+        "price": 799,
+        "color": "#f73984",
+        "image": "https://thewebconcept.com/lot.jpg"},
+      {
+        "id": 5,
+        "name": "Loto diaria Nicaragua 3 pm",
+        "desc": "Lottery description here ",
+        "price": 1299,
+        "color": "#1c1c1c",
+        "image": "https://thewebconcept.com/lot.jpg" },
+      {
+        "id": 6,
+        "name": "Loto diaria Nicaragua 9 pm",
+        "desc": "Lottery details here ",
+        "price": 899,
+        "color": "#7c95eb",
+        "image": "https://thewebconcept.com/lot.jpg" },
+      {
+        "id": 7,
+        "name": "Loto guadalupana 9 am",
+        "desc": "Lottery Details here s",
+        "price": 699,
+        "color": "#00ac51",
+        "image": "https://thewebconcept.com/lot.jpg" },
+      {
+        "id": 8,
+        "name": "Loto guadalupana 11:15 am",
+        "desc": "Lottery details here ",
+        "price": 1099,
+        "color": "#e0bfae",
+        "image": "https://thewebconcept.com/lot.jpg" },
+      {
+        "id": 9,
+        "name": "Loto guadalupana 3:15 pm",
+        "desc": "Lottery details here",
+        "price": 1099,
+        "color": "#e0bfae",
+        "image": "https://thewebconcept.com/lot.jpg" },
+      {
+        "id": 10,
+        "name": "Loto guadalupana 1 pm",
+        "desc": "Details here ",
+        "price": 1099,
+        "color": "#e0bfae",
+        "image": "https://thewebconcept.com/lot.jpg" },
+      {
+        "id": 11,
+        "name": "Loto guadalupana 9 pm",
+        "desc": "details here ",
+        "price": 1099,
+        "color": "#e0bfae",
+        "image": "https://thewebconcept.com/lot.jpg" },
+      {
+        "id": 12,
+        "name": "Loto bólido Lunes a viernes 9 pm",
+        "desc": "Details here",
+        "price": 1099,
+        "color": "#e0bfae",
+        "image": "https://thewebconcept.com/lot.jpg" },
+      {
+        "id": 13,
+        "name": "Loto charada domingo",
+        "desc": "Details here ",
+        "price": 1099,
+        "color": "#e0bfae",
+        "image": "https://thewebconcept.com/lot.jpg" 
+         },
+         {
+        "id": 14,
+        "name": "Loto Santa Lucia sabado",
+        "desc": "Details here",
+        "price": 1099,
+        "color": "#e0bfae",
+        "image": "https://thewebconcept.com/lot.jpg" },
+        {
+        "id": 15,
+        "name": "Loto duki Domingo",
+        "desc": "Details here",
+        "price": 1099,
+        "color": "#e0bfae",
+        "image": "https://thewebconcept.com/lot.jpg"
+       }
+  
+  
+  
+  
+  
+    ]
+  }
